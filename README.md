@@ -1,2 +1,2 @@
-# FlaskCRUD
-Here is a basic operation through flask in which make a simple basic website 
+# FlaskCRUD with Python
+Here is a basic operation through flask in which make a simple basic website
